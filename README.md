@@ -2,7 +2,7 @@
 <h3 align="center">Front-end developer from tiny town</h3>
 
 - 🌱 I’m currently learning **JavaScript** and its **frameworks**
-- 📫 How to reach me: ****, **@keyframes_box** in telegram
+- 📫 How to reach me: **@keyframes_box** in telegram
 <hr>
 
 ### Skills 
